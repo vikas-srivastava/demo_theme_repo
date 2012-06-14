@@ -1,0 +1,18 @@
+{
+	"name": "silverstripe/demotheme",
+	"description": "The SilverStripe demo theme",
+	"type": "silverstripe-theme",
+	"keywords": ["silverstripe", "cms","theme","black theme"],
+	"license": "BSD-3-Clause",
+	"authors": [	
+			{
+			"name": "vikas srivastava",
+			"email": "viky2130@gmail.com",
+			"homepage": "http://openbees.blogspot.co"
+			}
+		   ],
+	"require": {
+			"php": ">=5.3.2",
+			"silverstripe/framework": "dev-composer"
+	        	},
+}             
